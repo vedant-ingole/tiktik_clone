@@ -66,7 +66,6 @@ const Navbar = () => {
           </button>
         </form>
       </div>
-
       <div>
         {userProfile ? (
           <div className='flex gap-5 md:gap-10'>
